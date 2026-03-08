@@ -20,7 +20,7 @@ The dashboard allows users to explore:
 ## Dashboard Pages
 
 ### Goals & Cards Analysis
-![Goals & Cards](Goals & Cards.jpeg)
+![Goals & Cards](goals-cards.jpeg)
 
 ### Teams Performance
 ![Teams](Teams.jpeg)
